@@ -4,7 +4,7 @@ A template for Discord.js@^14.16.3 bots.
 ## 📦 Installation
 1. Clone the repository.
 ```sh
-$ git clone https://github.com/turkerwtf/discord.js-v14-bot-template.git
+$ git clone https://github.com/turkwr/discord.js-v14-bot-template.git
 ```
 2. Install the dependencies.
 ```sh
